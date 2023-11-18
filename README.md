@@ -1,9 +1,5 @@
 # topic-name
 
-Question: *What, exactly, is meant by the scriptural phrase "___ ___ ___"?*
+Question: *What are the prophesied signs of the second coming of Jesus Christ, and what can we say about their fulfilment?*
 
-* [scripture references](scriptures.md)
-* [prophetic teachings](teachings.md)
-* [notable commentary](commentary.md)
-* [related phrases](related.md)
-* [analysis](analysis.md)
+* [signs](signs.html)
